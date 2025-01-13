@@ -10,7 +10,7 @@ Criar planilha no excel, a qual poderá ser usada para que uma IA gere insights 
 
 ## 💻 Tecnologias utilizadas:
 
-- [Mirosoft Excel](https://www.office.com/launch/Excel) 
+- [Mirosoft Excel](https://www.microsoft.com/en/microsoft-365/excel) 
 - [ChatGPT](https://chatgpt.com/)
 
 
